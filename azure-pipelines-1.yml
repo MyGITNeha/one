@@ -15,4 +15,4 @@ steps:
   - script: echo "Welcome $(var1)"
     displayName: "stage-2"
 
-    stage -- 3
+    stage -- 3,4
